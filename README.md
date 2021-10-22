@@ -15,6 +15,11 @@ Map Packs for Battle Realms
 
 - Solution 1 : By Click Code Button (Green) --> Download ZIP
 
+- Solution 2 : By Windows Terminal 
+
+`git clone https://github.com/KravitzMC/BattleRealmsMapPacks.git`
+
+
 ### License
 
 [![License: CC BY-NC-ND 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
