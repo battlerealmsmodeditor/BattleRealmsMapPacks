@@ -11,6 +11,10 @@ Map Packs for Battle Realms
 
 - By copy Levels folder to main Battle Realms folder.
 
+### How to download ??
+
+- Solution 1 : By Click Code Button (Green) --> Download ZIP
+
 ### License
 
 [![License: CC BY-NC-ND 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
