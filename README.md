@@ -15,7 +15,7 @@ Map Packs for Battle Realms
 
 **Solution 1 :**
 
-By Click Code Button (Green) --> Download ZIP
+By clicking at Code Button (Green) -----> Download ZIP
 
 
 **Solution 2 :**
