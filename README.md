@@ -7,12 +7,6 @@
 - Battle Realms Zen Edition (Steam)
 - Battle Realms (GOG Version)
 
-## Usage
-
-- By copy Levels folder to main Battle Realms folder.
-
-![](https://raw.githubusercontent.com/KravitzMC/BattleRealmsMapPacks/main/toturial.png)
-
 ## How to download ??
 
 **Solution 1 :**
@@ -27,7 +21,11 @@ Step1 : `cd [BattleRealms Main Folder Path]`
 
 Step2 : `git clone https://github.com/KravitzMC/BattleRealmsMapPacks.git`
 
-Enjoy :)
+## Usage
+
+- By copy Levels folder to main Battle Realms folder.
+
+![](https://raw.githubusercontent.com/KravitzMC/BattleRealmsMapPacks/main/toturial.png)
 
 
 ### License
