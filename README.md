@@ -13,9 +13,9 @@ Map Packs for Battle Realms
 
 ### How to download ??
 
-- Solution 1 : By Click Code Button (Green) --> Download ZIP
+** - Solution 1 : ** By Click Code Button (Green) --> Download ZIP
 
-- Solution 2 : By throught Windows Terminal 
+** - Solution 2 : ** By throught Windows Terminal 
 
 `cd [BattleRealms Folder Path]`
 
