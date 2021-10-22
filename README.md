@@ -7,23 +7,11 @@
 - Battle Realms Zen Edition (Steam)
 - Battle Realms (GOG Version)
 
-## How to download
+You can download this collection throught by zip file 
 
-**Solution 1 :**
-Throught by Zip file 
+## [>> Download Now << ](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main.zip)
 
-## [Download Now](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main.zip)
-
-**Solution 2 :**
-Throught Windows Command Prompt 
-
-Step1 : `cd [BattleRealms Main Folder Path]`
-
-Step2 : `git clone https://github.com/KravitzMC/BattleRealmsMapPacks.git`
-
-enjoy :)
-
-## How to installl (Only Zip File)
+## How to installl
 
 - By copy Levels folder to main Battle Realms folder.
 
