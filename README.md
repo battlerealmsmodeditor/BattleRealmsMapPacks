@@ -11,12 +11,13 @@ Map Packs for Battle Realms
 
 - By copy Levels folder to main Battle Realms folder.
 
+![](https://raw.githubusercontent.com/KravitzMC/BattleRealmsMapPacks/main/toturial.png)
+
 ## How to download ??
 
 **Solution 1 :**
 
-By clicking at Code Button (Green) -----> Download ZIP
-
+## [Download Now](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main.zip)
 
 **Solution 2 :**
 
@@ -32,5 +33,3 @@ Enjoy :)
 ### License
 
 [![License: CC BY-NC-ND 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-
-
