@@ -7,7 +7,7 @@
 - Battle Realms Zen Edition (Steam)
 - Battle Realms (GOG Version)
 
-## How to download ??
+## How to download
 
 **Solution 1 :**
 
