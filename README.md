@@ -9,4 +9,4 @@ Map Packs for Battle Realms
 
 ### Usage
 
-- By copy Levels folder to base Battle Realms folder.
+- By copy Levels folder to main Battle Realms folder.
