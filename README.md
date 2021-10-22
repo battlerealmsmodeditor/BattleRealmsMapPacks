@@ -20,7 +20,7 @@ By clicking at Code Button (Green) -----> Download ZIP
 
 **Solution 2 :**
 
-By throught Windows Command Prompt 
+Throught Windows Command Prompt 
 
 Step1 : `cd [BattleRealms Main Folder Path]`
 
