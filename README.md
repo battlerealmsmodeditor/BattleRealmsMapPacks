@@ -1,6 +1,6 @@
-# Battle Realms Map Packs Extension
+# 🗺 Battle Realms Map Packs Extension 
 
-Map Packs for Battle Realms
+🎮 Map Packs for Battle Realms
 
 ## Support for Battle Realms 
 
