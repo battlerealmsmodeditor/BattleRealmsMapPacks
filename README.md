@@ -10,3 +10,9 @@ Map Packs for Battle Realms
 ### Usage
 
 - By copy Levels folder to main Battle Realms folder.
+
+
+
+### License
+![](https://raw.githubusercontent.com/KravitzMC/BattleRealmsMapPacks/main/by-nc-sa.png)
+
