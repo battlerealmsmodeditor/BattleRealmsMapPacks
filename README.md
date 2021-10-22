@@ -1,4 +1,4 @@
-# Battle Realms Map Packs (Extension)
+# Battle Realms Map Packs Extension
 
 Map Packs for Battle Realms
 
