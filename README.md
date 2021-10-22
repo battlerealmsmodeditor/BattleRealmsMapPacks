@@ -13,14 +13,18 @@ Map Packs for Battle Realms
 
 ### How to download ??
 
-** - Solution 1 : ** By Click Code Button (Green) --> Download ZIP
+**Solution 1 :**
 
-** - Solution 2 : ** By throught Windows Terminal 
+By Click Code Button (Green) --> Download ZIP
+
+
+**Solution 2 :**
+
+By throught Windows Terminal 
 
 `cd [BattleRealms Folder Path]`
 
 `git clone https://github.com/KravitzMC/BattleRealmsMapPacks.git`
-
 
 
 
