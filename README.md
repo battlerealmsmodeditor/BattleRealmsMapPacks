@@ -26,6 +26,8 @@ Step1 : `cd [BattleRealms Main Folder Path]`
 
 Step2 : `git clone https://github.com/KravitzMC/BattleRealmsMapPacks.git`
 
+Enjoy :)
+
 
 ### License
 
