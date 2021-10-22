@@ -10,11 +10,11 @@
 ## How to download
 
 **Solution 1 :**
+By Zip file 
 
 ## [Download Now](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main.zip)
 
 **Solution 2 :**
-
 Throught Windows Command Prompt 
 
 Step1 : `cd [BattleRealms Main Folder Path]`
