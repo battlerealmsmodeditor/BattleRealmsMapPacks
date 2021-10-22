@@ -10,7 +10,7 @@
 ## How to download
 
 **Solution 1 :**
-By Zip file 
+Throught by Zip file 
 
 ## [Download Now](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main.zip)
 
