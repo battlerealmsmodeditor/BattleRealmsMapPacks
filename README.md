@@ -6,3 +6,7 @@ Map Packs for Battle Realms
 
 - Battle Realms Zen Edition (Steam)
 - Battle Realms (GOG Version)
+
+### Usage
+
+- By copy Levels folder to base Battle Realms folder.
