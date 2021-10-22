@@ -21,7 +21,9 @@ Step1 : `cd [BattleRealms Main Folder Path]`
 
 Step2 : `git clone https://github.com/KravitzMC/BattleRealmsMapPacks.git`
 
-## How to installl
+enjoy :)
+
+## How to installl (Only Zip File)
 
 - By copy Levels folder to main Battle Realms folder.
 
