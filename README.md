@@ -20,12 +20,11 @@ By Click Code Button (Green) --> Download ZIP
 
 **Solution 2 :**
 
-By throught Windows Terminal 
+By throught Windows Command Prompt 
 
-`cd [BattleRealms Folder Path]`
+Step1 : `cd [BattleRealms Main Folder Path]`
 
-`git clone https://github.com/KravitzMC/BattleRealmsMapPacks.git`
-
+Step2 : `git clone https://github.com/KravitzMC/BattleRealmsMapPacks.git`
 
 
 ### License
