@@ -19,7 +19,7 @@ You can download this collection throught by zip file
 
 
 ## License
-[![License: CC BY-NC-ND 4.0](https://raw.githubusercontent.com/KravitzMC/BattleRealmsMapPacks/main/byncsa.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![License: CC BY-NC-ND 4.0](https://raw.githubusercontent.com/KravitzMC/BattleRealmsMapPacks/main/byncnd.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
