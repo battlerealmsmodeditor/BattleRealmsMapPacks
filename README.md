@@ -18,7 +18,7 @@ You can download this collection throught by zip file
 ![](https://raw.githubusercontent.com/KravitzMC/BattleRealmsMapPacks/main/toturial.png)
 
 
-## License
+## License 
 [![License: CC BY-NC-ND 4.0](https://raw.githubusercontent.com/KravitzMC/BattleRealmsMapPacks/main/byncnd.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## Contributing
