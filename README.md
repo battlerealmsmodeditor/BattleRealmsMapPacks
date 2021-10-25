@@ -1,6 +1,6 @@
 # 🗺 Battle Realms Map Packs Extension 
 
- The most popular Map Packs for Battle Realms
+ The most popular and other Map Packs for Battle Realms
 
 ## 🎮 Support for Battle Realms 
 
