@@ -13,7 +13,7 @@ You can download this collection throught by zip file
 
 ## How to install
 
-- By extract Levels in zip folder to main Battle Realms folder.
+- By extract Levels in zip folder to main Battle Realms folder (Drag and Drop).
 
 ![](https://raw.githubusercontent.com/KravitzMC/BattleRealmsMapPacks/main/toturial.png)
 
