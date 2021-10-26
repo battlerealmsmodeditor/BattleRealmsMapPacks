@@ -11,7 +11,7 @@ You can download this collection throught by zip file
 
 ## [>> Download Now << ](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main.zip)
 
-## How to installl
+## How to install
 
 - By copy Levels folder to main Battle Realms folder.
 
