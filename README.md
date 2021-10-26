@@ -1,6 +1,8 @@
 # 🗺 Battle Realms Map Packs Extension 
 
  The most popular and other Map Packs for Battle Realms (Single Player / Multiplayer)
+ 
+ (Port map files from : forums.gamingterritory.com, siambronline and another)
 
 ## 🎮 Support for Battle Realms 
 
