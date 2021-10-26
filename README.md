@@ -2,7 +2,7 @@
 
  The most popular and other Map Packs for Battle Realms (Single Player / Multiplayer)
  
- (Port map file from : forums.gamingterritory.com, siambronline and another)
+ (Port map files from : forums.gamingterritory.com, siambronline and another)
 
 ## 🎮 Support for Battle Realms 
 
