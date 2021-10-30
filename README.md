@@ -7,7 +7,7 @@
 ## 🎮 Support for Battle Realms 
 
 - Battle Realms Zen Edition (Steam)
-- Battle Realms (GOG Version)
+- Battle Realms WOTW (GOG Version)
 
 You can download this collection throught by zip file 
 
