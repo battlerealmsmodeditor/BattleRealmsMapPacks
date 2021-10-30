@@ -2,8 +2,6 @@
 
  The most popular and other Map Packs for Battle Realms (Single Player / Multiplayer)
  
- Port over 600+ map files from : forums.gamingterritory.com, siambronline and another (but not include original map..!!)
-
 ## 🎮 Support for Battle Realms 
 
 - Battle Realms Zen Edition (Steam)
