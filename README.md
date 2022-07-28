@@ -7,6 +7,14 @@
 - Battle Realms Zen Edition (Steam)
 - Battle Realms (GOG Version)
 
+## Usage
+```
+
+```
+
+
+
+
 You can download this collection throught by zip file 
 
 ## [>> Download Now << ](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main.zip)
