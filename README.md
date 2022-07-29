@@ -9,9 +9,9 @@
 
 ## Usage via Commandline
 ```
-cd /d [Battle Realms folder Path]
+1. cd /d [Battle Realms folder Path]
 
-git clone -b "main-levels" https://github.com/KravitzMC/BattleRealmsMapPacks.git "Levels"
+2. git clone -b "main-levels" https://github.com/KravitzMC/BattleRealmsMapPacks.git "Levels"
 ```
 
 
