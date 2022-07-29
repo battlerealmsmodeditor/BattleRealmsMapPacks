@@ -7,6 +7,7 @@
 - Battle Realms Zen Edition (Steam)
 - Battle Realms (GOG Version)
 
+---
 ### Note : For list files please go to branch : [main-levels](https://github.com/KravitzMC/BattleRealmsMapPacks/tree/main-levels)
 
 ## Usage via Commandline
@@ -16,7 +17,6 @@
 cd /d [Battle Realms folder Path]
 ```
 Example :  cd /d D:\Program Files (x86)\Steam\steamapps\common\Battle Realms\Levels
-
 
 ### 2. Clone map into Levels folder (local)
 ```
@@ -29,6 +29,8 @@ cd /d [Battle Realms folder Path]\Levels
 
 git pull
 ```
+
+---
 
 ## Usage via Direct Download
 
