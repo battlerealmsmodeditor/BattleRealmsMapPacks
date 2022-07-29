@@ -49,3 +49,7 @@ git pull
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## Sponsor by Steam Community
+
+[Join BR Avenger Chat Group](https://s.team/chat/CdxIJrFX)
