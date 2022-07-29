@@ -7,8 +7,10 @@
 - Battle Realms Zen Edition (Steam)
 - Battle Realms (GOG Version)
 
-## Usage
+## Usage via Commandline
 ```
+cd /d [Battle Realms folder Path]
+
 git clone -b "main-levels" https://github.com/KravitzMC/BattleRealmsMapPacks.git "Levels"
 ```
 
