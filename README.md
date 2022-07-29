@@ -37,10 +37,7 @@ git pull
 
 [>> Download Now << ](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main-levels.zip)
 
-- By extract Levels in .zip folder to main Battle Realms folder (Drag and Drop).
-
-![](https://raw.githubusercontent.com/KravitzMC/BattleRealmsMapPacks/main/toturial.png)
-
+- By extract Levels in .zip folder to main Battle Realms Levels folder (Drag and Drop).
 
 ## License 
 [![License: CC BY-NC-ND 4.0](https://raw.githubusercontent.com/KravitzMC/BattleRealmsMapPacks/main/byncnd.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -50,6 +47,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Sponsor by Steam Community
+## Join Steam Community
 
-[Join BR Avenger Chat Group](https://s.team/chat/CdxIJrFX)
+[BR Avenger Chat Group](https://s.team/chat/CdxIJrFX)
