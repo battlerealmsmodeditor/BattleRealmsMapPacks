@@ -2,15 +2,16 @@
 
  The most popular and other Map Packs for Battle Realms (Single Player / Multiplayer)
  
+ ### Note : For list files please go to branch : [main-levels](https://github.com/KravitzMC/BattleRealmsMapPacks/tree/main-levels)
+
 ## 🎮 Support for Battle Realms 
 
 - Battle Realms Zen Edition (Steam)
 - Battle Realms (GOG Version)
 
----
-### Note : For list files please go to branch : [main-levels](https://github.com/KravitzMC/BattleRealmsMapPacks/tree/main-levels)
+## Installation
 
-## Usage via Commandline
+### Usage via Command Prompt
 
 ### 1. Mount into folder.
 ```
@@ -29,14 +30,11 @@ cd /d [Battle Realms folder Path]\Levels
 
 git pull
 ```
-
 ---
 
 ## Usage via Direct Download
 
 [>> Download Now << ](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main-levels.zip)
-
-## How to install
 
 - By extract Levels in .zip folder to main Battle Realms folder (Drag and Drop).
 
