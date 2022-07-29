@@ -47,6 +47,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Join Steam Community
+## Steam Community
 
-[BR Avenger Chat Group](https://s.team/chat/CdxIJrFX)
+[Join BR Avenger Chat Group](https://s.team/chat/CdxIJrFX)
