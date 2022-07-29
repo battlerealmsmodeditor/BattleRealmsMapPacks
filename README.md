@@ -16,13 +16,17 @@ cd /d [Battle Realms folder Path]
 Example :  cd /d D:\Program Files (x86)\Steam\steamapps\common\Battle Realms\Levels
 
 
-
-
 ### 2. Clone map into Levels folder (local)
 ```
 git clone -b "main-levels" https://github.com/KravitzMC/BattleRealmsMapPacks.git "Levels"
 ```
 
+### 3. if you want to update new map.
+```
+cd /d [Battle Realms folder Path]\Levels
+
+git pull
+```
 
 
 Or You can download direct this collection throught by zip file 
