@@ -9,13 +9,12 @@
 
 ## Usage
 ```
-
+git clone -b "main-levels" https://github.com/KravitzMC/BattleRealmsMapPacks.git "Levels"
 ```
 
 
 
-
-You can download this collection throught by zip file 
+Or You can download direct this collection throught by zip file 
 
 ## [>> Download Now << ](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main.zip)
 
