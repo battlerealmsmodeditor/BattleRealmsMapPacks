@@ -8,10 +8,19 @@
 - Battle Realms (GOG Version)
 
 ## Usage via Commandline
-```
-1. cd /d [Battle Realms folder Path]
 
-2. git clone -b "main-levels" https://github.com/KravitzMC/BattleRealmsMapPacks.git "Levels"
+### 1. Mount into folder.
+```
+cd /d [Battle Realms folder Path]
+```
+Example :  cd /d D:\Program Files (x86)\Steam\steamapps\common\Battle Realms\Levels
+
+
+
+
+### 2. Clone map into Levels folder (local)
+```
+git clone -b "main-levels" https://github.com/KravitzMC/BattleRealmsMapPacks.git "Levels"
 ```
 
 
