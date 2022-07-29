@@ -7,6 +7,8 @@
 - Battle Realms Zen Edition (Steam)
 - Battle Realms (GOG Version)
 
+### Note : For list files please go to branch : [main-levels](https://github.com/KravitzMC/BattleRealmsMapPacks/tree/main-levels)
+
 ## Usage via Commandline
 
 ### 1. Mount into folder.
