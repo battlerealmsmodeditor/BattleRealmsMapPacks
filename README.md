@@ -28,10 +28,9 @@ cd /d [Battle Realms folder Path]\Levels
 git pull
 ```
 
-
 Or You can download direct this collection throught by zip file 
 
-## [>> Download Now << ](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main.zip)
+## [>> Download Now << ](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main-levels.zip)
 
 ## How to install
 
