@@ -17,7 +17,7 @@
 ```
 cd /d [Battle Realms folder Path]
 ```
-Example :  cd /d D:\Program Files (x86)\Steam\steamapps\common\Battle Realms\Levels
+Example :  cd /d D:\Program Files (x86)\Steam\steamapps\common\Battle Realms
 
 ### 2. Clone map into Levels folder (local)
 ```
