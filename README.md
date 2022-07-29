@@ -14,7 +14,7 @@
 
 ### Usage via Command Prompt
 
-### 1. Mount into folder.
+### 1. Mount into current BR folder.
 ```
 cd /d [Battle Realms folder Path]
 ```
