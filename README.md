@@ -12,7 +12,7 @@
 
 ## Installation
 
-### Usage via Command Prompt
+### Solution 1 : Usage via Command Prompt
 
 ### 1. Mount into current BR folder.
 ```
@@ -33,7 +33,7 @@ git pull
 ```
 ---
 
-## Usage via Direct Download
+## Solution 2 : Usage via Direct Download
 
 [>> Download Now << ](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main-levels.zip)
 
