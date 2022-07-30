@@ -8,7 +8,7 @@
 ## 🎮 Support for Battle Realms 
 
 - Battle Realms Zen Edition (Steam)
-- Battle Realms (GOG Version)
+- Battle Realms (GOG-GR)
 
 ## Installation
 
