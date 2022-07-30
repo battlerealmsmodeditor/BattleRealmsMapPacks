@@ -12,7 +12,7 @@
 
 ## Installation
 
-### Solution 1 : Usage via Command Prompt
+## Solution 1 : Usage via Command Prompt
 
 ### 1. Mount into current BR folder.
 ```
