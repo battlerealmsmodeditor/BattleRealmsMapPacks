@@ -50,7 +50,7 @@ Please make sure to update tests as appropriate.
 ## Specific Thanks
 
 ```
-Misen, Beyonder, Acolyte, <EMPTY> and others.. 
+Misen, Beyonder, Acolyte, <EMPTY>, Nazil and others.. 
 ```
 
 ## Steam Community
