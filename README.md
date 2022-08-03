@@ -47,6 +47,12 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Specific Thanks
+
+```
+Misen, Beyonder, Acolyte, <EMPTY> and others.. 
+```
+
 ## Steam Community
 
 [Join BR Avenger Chat Group](https://s.team/chat/CdxIJrFX)
