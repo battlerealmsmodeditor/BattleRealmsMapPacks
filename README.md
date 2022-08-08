@@ -50,7 +50,7 @@ Please make sure to update tests as appropriate.
 ## Specific Thanks (Creator/Tester)
 
 ```
-Misen, Peasant77, Beyonder, Acolyte, <EMPTY>, Pink Wolf, battlerealms.cc and others.. 
+Misen, Peasant77, KindStone, Lucci, Beyonder, Acolyte, <EMPTY>, Pink Wolf ,battlerealms.cc and others.. 
 ```
 
 ## Community
