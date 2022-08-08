@@ -47,7 +47,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Specific Thanks (Creator/Tester)
+## Specific Thanks (Designer/Tester)
 
 ```
 Misen, Peasant77, KindStone, Lucci, Beyonder, Acolyte, <EMPTY>, Pink Wolf ,battlerealms.cc and others.. 
