@@ -35,7 +35,7 @@ git pull
 
 ## Solution 2 : Usage via Direct Download
 
-[>> Download Now << ](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main-levels.zip)
+### [>> Download Now << ](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main-levels.zip)
 
 - By extract Levels in .zip folder to main Battle Realms Levels folder (Drag and Drop).
 
@@ -55,6 +55,6 @@ Misen, Peasant77, KindStone, Lucci, Beyonder, Acolyte, <EMPTY>, Pink Wolf, battl
 
 ## Community
 
-[Join BR Avenger Chat Group](https://s.team/chat/CdxIJrFX)
+### [Join BR Avenger Chat Group](https://s.team/chat/CdxIJrFX)
 
-[Misen Gaming Channel](https://www.youtube.com/channel/UCpWZX3l0ugvV929QJWPih1g)
+### [Misen Gaming Channel](https://www.youtube.com/channel/UCpWZX3l0ugvV929QJWPih1g)
