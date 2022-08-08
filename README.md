@@ -53,6 +53,8 @@ Please make sure to update tests as appropriate.
 Misen, Peasant77, Beyonder, Acolyte, <EMPTY>, Pink Wolf and others.. 
 ```
 
-## Steam Community
+## Community
 
 [Join BR Avenger Chat Group](https://s.team/chat/CdxIJrFX)
+
+[Misen Gaming Channel](https://www.youtube.com/channel/UCpWZX3l0ugvV929QJWPih1g)
