@@ -12,7 +12,7 @@
 
 ## Installation
 
-## Solution 1 : Usage via Command Prompt
+## Solution 1 : Usage via Git Command
 
 ### 1. Mount into current BR folder.
 ```
