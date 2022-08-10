@@ -2,7 +2,7 @@
 
  The most popular and other Map Packs for Battle Realms (Single Player / Multiplayer)
  
- <h1> 🔴 Note : For list files please go to branch : <a href="https://github.com/KravitzMC/BattleRealmsMapPacks/tree/main-levels">Main-Levels</a></h1>
+ <h2> 🔴 Note : For list files please go to branch : <a href="https://github.com/KravitzMC/BattleRealmsMapPacks/tree/main-levels">Main-Levels</a></h2>
 
 
 ## 🎮 Support for Battle Realms 
