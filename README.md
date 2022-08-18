@@ -1,5 +1,5 @@
 
-![logo](https://raw.githubusercontent.com/KravitzMC/BattleRealmsMapPacks/main/banner.png "Map packs logo")
+![logo](https://github.com/KravitzMC/BattleRealmsMapPacks/blob/main/brbanner.png "Map packs logo")
 
 
 
