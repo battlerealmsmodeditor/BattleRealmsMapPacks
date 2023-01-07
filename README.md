@@ -3,7 +3,7 @@
 
 
 
-# 🗺 Battle Realms Map Packs + Misen Packs Extension 
+# 🗺 Battle Realms Map Packs + Misen Extension Packs
 
  The most popular and other Map Packs for Battle Realms (Single Player / Multiplayer)
  
