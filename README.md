@@ -5,7 +5,7 @@
 
 # 🗺 Battle Realms Map Packs + Misen Extension Packs
 
-> ⚠️ Recovery maps data from battlerealms.cc (Server down) about 94%
+### ⚠️ Recovery maps data from battlerealms.cc (Server down) about 94%
 
 ## 🎮 Support for Battle Realms 
 
