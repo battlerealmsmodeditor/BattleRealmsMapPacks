@@ -1,9 +1,7 @@
 
 ![logo](https://github.com/KravitzMC/BattleRealmsMapPacks/blob/main/brbanner.png "Map packs logo")
 
-
-
-# 🗺 Battle Realms Map Packs + Misen Extension Packs
+## 🗺 Battle Realms Map Packs + Misen Extension Packs
 
 ### ⚠️ Recovery maps data from battlerealms.cc (Server down) about 94%
 
