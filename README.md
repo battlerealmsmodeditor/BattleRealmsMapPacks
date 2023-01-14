@@ -5,7 +5,7 @@
 
 #### ⚠️ The Recovery maps data about 92% from forums.gamingterritory.com (Before Server down era)
 
-## 🎮 Support for Battle Realms 
+### 🎮 Version Support
 
 - Battle Realms Zen Edition (v1.58 Compatibility)
 - Battle Realms (GOG-GR)
