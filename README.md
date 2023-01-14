@@ -7,7 +7,7 @@
 
 ## 🎮 Support for Battle Realms 
 
-- Battle Realms Zen Edition (Steam)
+- Battle Realms Zen Edition (v1.58 Compatibility)
 - Battle Realms (GOG-GR)
 
 ## Usage via Direct Download
