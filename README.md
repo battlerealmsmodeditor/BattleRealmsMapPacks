@@ -3,7 +3,7 @@
 
 ## 🗺 Battle Realms Map Packs + Misen Extension Packs
 
-### ⚠️ Recovery maps data about 94% from forums.gamingterritory.com (Before Server down era)
+#### ⚠️ Recovery maps data about 94% from forums.gamingterritory.com (Before Server down era)
 
 ## 🎮 Support for Battle Realms 
 
