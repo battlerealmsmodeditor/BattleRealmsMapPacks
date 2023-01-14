@@ -3,7 +3,7 @@
 
 ## 🗺 Battle Realms Map Packs + Misen Extension Packs
 
-#### ⚠️ The Recovery maps data about 92% from forums.gamingterritory.com (Before Server down era)
+#### ⚠️ The Recovery maps data about 92% from forums.gamingterritory.com (Before Server down era).
 
 ### 🎮 Version Support
 
@@ -31,7 +31,7 @@ Please make sure to update tests as appropriate.
 ## Specific Thanks (Designer/Tester)
 
 ```
-Misen, Peasant77, KindStone, Lucci, Beyonder, Acolyte, <EMPTY>, Pink Wolf, battlerealms.cc and others.. 
+battlerealms.cc , Misen, KindStone, Lucci, Beyonder, Pink Wolf and others.. 
 ```
 ## Community
 
