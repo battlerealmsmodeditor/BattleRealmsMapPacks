@@ -12,7 +12,7 @@
 
 ## Usage via Direct Download
 
-## 📥 [Download Now](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main-levels.zip)
+## 📥 [Download Map Packs](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main-levels.zip)
 
 - By extract Levels in .zip folder to main Battle Realms Levels folder (Drag and Drop).
 
