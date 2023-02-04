@@ -31,7 +31,7 @@ Please make sure to update tests as appropriate.
 ## Specific Thanks (Designer/Tester)
 
 ```
-battlerealms.cc , Misen, KindStone, Lucci, Beyonder, Pink Wolf and others.. 
+battlerealms.cc ,Beyonder, Misen, KindStone, Lucci, Pink Wolf and others.. 
 ```
 ## Community
 
