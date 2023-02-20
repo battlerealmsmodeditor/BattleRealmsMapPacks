@@ -31,7 +31,7 @@ Please make sure to update tests as appropriate.
 ## Specific Thanks
 
 ```
-gamingterritory.com ,Beyonder, Misen, KindStone, Lucci
+gamingterritory.com ,Beyonder, Misen, <Empty>
 ```
 ## Community
 
