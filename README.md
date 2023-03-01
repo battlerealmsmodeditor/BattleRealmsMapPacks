@@ -35,6 +35,5 @@ gamingterritory.com ,Beyonder, Misen, <Empty>
 ```
 ## Community
 
-#### [Join BR Avenger Chat Group](https://s.team/chat/CdxIJrFX)
+#### [Join BR Avenger Steam Chat Group](https://s.team/chat/CdxIJrFX)
 #### [Join Battle Realms Discord](https://discord.com/invite/battlerealms)
-#### [Misen Gaming Channel](https://www.youtube.com/channel/UCpWZX3l0ugvV929QJWPih1g)
