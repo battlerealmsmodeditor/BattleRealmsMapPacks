@@ -3,7 +3,7 @@
 
 ## 🗺 Battle Realms Map Packs + Misen Packs
 
-#### ⚠️ The maps archive data about 85% over 680+ maps from forums.gamingterritory.com (Before Server down era). and other ....
+#### ⚠️ The maps archive data about 85% over 600+ maps from forums.gamingterritory.com (Before Server down era). and other ....
 
 ### 🎮 Version Support
 
