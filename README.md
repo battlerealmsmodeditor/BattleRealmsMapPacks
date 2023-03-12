@@ -7,7 +7,7 @@
 
 ### 🎮 Version Support
 
-- Battle Realms Zen Edition (v1.58.1 Compatibility)
+- Battle Realms Zen Edition (v1.58.1 H20 Files Fixed)
 - Battle Realms (GOG-GR)
 
 ## Usage via Direct Download
