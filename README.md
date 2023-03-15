@@ -21,7 +21,7 @@
 
 
 ## License 
-[![License: CC BY-NC-ND 4.0](https://github.com/battlerealmsmodeditor/BattleRealmsMapPacks/blob/main/byncsa_licensecommon.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![License: CC BY-NC-ND 4.0](https://github.com/battlerealmsmodeditor/BattleRealmsMapPacks/blob/main/byncsa_licensecommon.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
