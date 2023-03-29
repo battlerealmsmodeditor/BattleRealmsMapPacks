@@ -31,7 +31,7 @@ Please make sure to update tests as appropriate.
 ## Specific Thanks
 
 ```
-gamingterritory.com ,Goku Pack , Beyonder, Misen Pack
+gamingterritory.com ,Beyonder, Misen, Goku
 ```
 ## Community
 
