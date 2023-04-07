@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/KravitzMC/BattleRealmsMapPacks/blob/main/brbanner.png "Map packs logo")
 
-## 🗺 [Archive] Battle Realms Map Packs + Misen Packs
+## 🗺 Awesome Battle Realms Map Packs + Misen Packs
 
 #### ⚠️ The maps archive data about 80% over 900+ maps from forums.gamingterritory.com (Before Server down era). and other ....
 
