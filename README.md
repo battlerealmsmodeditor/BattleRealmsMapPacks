@@ -15,7 +15,7 @@
 
 ## 📥 [Download Map Packs](https://github.com/KravitzMC/BattleRealmsMapPacks/archive/refs/heads/main-levels.zip)
 
-- By extract Levels in .zip folder to main Battle Realms Levels folder.
+- By extract Levels folder in .zip file to main Battle Realms Levels folder.
 
 
 #### <h2> 🔴 Note : if you want to see all files please go to branch : <a href="https://github.com/KravitzMC/BattleRealmsMapPacks/tree/main-levels">Main-Levels</a></h2>
