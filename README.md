@@ -8,7 +8,7 @@
 
 ### 🎮 Version Support
 
-- Battle Realms Zen Edition (v1.58.1 H20 Files Hotfix)
+- Battle Realms Zen Edition (v1.58.1 H20 Files Coldfix)
 - Battle Realms (GOG-GR)
 
 ## Usage via Direct Download
