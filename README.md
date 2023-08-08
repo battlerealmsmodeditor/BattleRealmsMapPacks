@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/KravitzMC/BattleRealmsMapPacks/blob/main/brbanner.png "Map packs logo")
 
-## 🗺 Awesome Battle Realms Map Packs (Included Misen Packs)
+## 🗺 Awesome Battle Realms Map Packs
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/battlerealmsmodeditor/BattleRealmsMapPacks) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/battlerealmsmodeditor/BattleRealmsMapPacks/pulls)
 
 #### ⚠️ The maps archive data about 80% over 900+ maps from forums.gamingterritory.com (Before Server down era). and other ....
