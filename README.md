@@ -8,7 +8,7 @@
 
 ### 🎮 Version Support
 
-- Battle Realms Zen Edition (v1.58.2)
+- Battle Realms Zen Edition (v1.58.3)
 - Battle Realms (GOG-GR)
 
 ## Usage via Direct Download
